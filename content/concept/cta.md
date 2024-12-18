@@ -10,19 +10,37 @@ design:
 ---
 <div style="text-align: justify"> 
 
-The project ONOFRE-3 deals with a 5G/6G ecosystem featured by the heterogeneity of the edge, fog, and cloud processing layers and proper management of dynamic QoS application requirements running on mobile nodes. To overcome this complexity, AI and Machine Learning techniques for contextual information prediction and network management are proposed. AI/ML can also support both offline planning methods and multiaccess coordination and control and be deployed at end devices. In this scenario, security is also mandatory from the start, with advanced cloud data privacy and security techniques, are proposed to be smoothly managed and controlled across different cloud computing domains. Finally, practical evaluation of these mechanisms needs a realistic application scenario with clear requirements. Hence, CCAM and C-ITS verticals are taken for reference evaluation, which provide clearly defined and demanding QoS requirements and serve as reference area to analyse and develop concrete and meaningful benchmarks in a massive latency-bounded slice. ONOFRE-3 studies and tests novel mechanisms at all the involved stages: offline network planning, online provisioning and management, multiple radio access and end devices. We propose to use intelligent orchestration of cloud, fog, and edge computing for CCAM and C-ITS, over a secured framework and supported by AI/ML techniques. The project outcomes are expected to have a significant economic and social impact. Cloud and edge computing advances brought by the project will contribute to the fields that will also drive the future ICT economy. Project results will also directly contribute to improve the Key Enabling Technologies identified for CCAM and should help accelerate its adoption.
+ONOFRE-4 aims to develop efficient planning and management mechanisms for network infrastructures equipped with computing
+resources. The focus is on providing support for connected, reliable and secure mobility, with special consideration given to the
+interrelation between networks operated by different actors.<br>
+In concrete terms, the project starts from the assumption that to fully exploit the potential of connected mobility in general, it is essential to
+have robust and reliable communication infrastructures, both wired and wireless, equipped with computing resources, and supported by
+effective orchestration procedures. It also highlights the importance of considering multi-operator and even multi-stakeholder scenarios. As
+vehicles move across different geographical regions, networks managed by different operators and their associated computing resources
+should facilitate seamless connectivity and uninterrupted access to subscribed services, thus contributing to a more connected and
+cohesive mobility ecosystem. In addition, communication and computing infrastructures of different operators, and even of other actors
+such as public administrations, companies or industries, may exist in the same geographical area. Therefore, the interrelation of these
+infrastructures, enabling a shared use of resources under certain conditions, and articulated through smart contracts, will enhance
+efficiency in service provision and create new opportunities for operators and other stakeholders.<br>
+ONOFRE-4 will advance on (1) providing efficient planning and management mechanisms for wired and wireless network infrastructures
+equipped with computing resources, (2) optimizing the use of multiband technologies and coherent pluggable transceivers in optical
+networks, along with a focus on emerging standards on access networks, (3) optimizing the co-existence of multiple radio access
+technologies with special emphasis on recently introduced techniques such as multi-channel operation (MCO), (4) optimizing the services
+offered by the network and its computing infrastructure, exploiting orchestration, federated learning and computation offloading in multistakeholder
+environments, (5) improving the reliability and security of the network architecture by including identity management and
+quantum key distribution (QKD), and all with a focus on improving various use cases related to mobility.
 
 <p><b>Objectives:</b></p>
 
 <ul>
-<li>Study and propose distributed computing and network resources orchestration and coordination mechanisms to overcome the heterogeneity of edge, fog and cloud processing layers in a CCAM and C-ITS scenario.</li>
-<li>Monitor operational performance level and predict computing and network resources with AI/ML techniques.</li>
-<li>Planning and dynamic allocation of network and computing resources based on predictive context information.</li>
-<li>Coordinate available access technologies and optimize operational RAT parameters for C-ITS and CCAM applications.</li>
-<li>Propose security mechanisms to deal with threats against the distributed architecture operations, as well as the integration of privacy, data protection, fault tolerance, AAA in the CCAM and C-ITS domain. </li>
-<li>Definition and implementation of a set of urban mobility services for evaluation and testing.</li>
+<li>To propose planning and allocation mechanisms for core, metro and access optical networks, as well as IA-based network automation techniques.</li>
+<li>To extend the optimization of multi-RAT (Radio Access Technologies) operation, including recently introduced technologies.</li>
+<li>To ensure efficient and reliable resource management in complex network infrastructures composed of multiple stakeholders. </li>
+<li>To enhance the security of the architecture by incorporating identity management, DLT and QKD.</li>
+<li>To optimize and validate services and use cases related to connected vehicles.</li>
 </ul>
 
-<img src="imagen.png">
+<!---- <img src="imagen.png">
+-->
 
 </div>
