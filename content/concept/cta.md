@@ -1,6 +1,6 @@
 ---
 title: Concept
-subtitle: Systems for Cooperative Two-Wheel Vehicles (SCOOTER)
+subtitle: Overview of ONOFRE-4
 widget: blank
 headless: true
 active: true
