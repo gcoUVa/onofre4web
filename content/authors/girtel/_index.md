@@ -8,7 +8,7 @@ superuser: false
 weight: 1
 
 # Role/position
-role: <a href="https://girtel.upct.es/~eegea//">Esteban Egea López</a> <br> <a href="https://girtel.upct.es/~jsanta//">José Santa Lozano</a> <br> Subproyect - On-Demand Provisioning of Network and Computing Resources from the Cloud to the Edge - Optimal Planning and Coordinated Access (ONOFRE-3-UPCT). Ref. PID2020-112675RB-C41
+role: <a href="https://girtel.upct.es/~eegea//">Esteban Egea López</a> <br> <a href="https://girtel.upct.es/~vbeltran//">Victoria Beltrán Martínez</a> <br> Subproject - Multi-stakeholder Network Planning and Orchestration for Reliable and Secure Connected Mobility: Multi-RAT Planning and Operation (ONOFRE-4-UPCT). Ref. PID2023-148104OB-C42
 
 # Organizations/Affiliations
 #organizations:
@@ -26,11 +26,11 @@ social:
   - icon: envelope
     icon_pack: fas
     name: 'Email'
-    link: 'mailto:jose.santa@upct.es'
+    link: 'mailto:esteban.egea@upct.es'
   - icon: phone
     icon_pack: fa
     name: 'Phone'
-    link: 'tel:+34968325952'
+    link: 'tel:+34968326553'
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/GeorgeCushen
