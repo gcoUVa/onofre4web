@@ -8,7 +8,7 @@ superuser: false
 weight: 1
 
 # Role/position
-role: <a href="https://investigacion.uva.es/CawDOS//jsf/seleccionActividades/seleccionActividades.jsf?id=72e6ffac37e460e9&idioma=es&tipo=activ,&elmeucv=N">Ramón Durán Barroso</a> <br> <a href="https://investigacion.uva.es/CawDOS//jsf/seleccionActividades/seleccionActividades.jsf?id=7113cd0f4e4a295a&idioma=es&tipo=activ,&elmeucv=N">Ignacio de Miguel Jiménez</a> <br> Subproyect - On-Demand Provisioning of Network and Computing Resources from the Cloud to the Edge - Operation and Computation Offloading (ONOFRE-3-UVa). Ref. PID2020-112675RB-C42
+role: <a href="https://girtel.upct.es/~eegea/">Esteban Egea López</a> <br> <a href="https://girtel.upct.es/~vbeltran/">Victoria Beltrán Martínez</a> <br> Subproject - XXXXX. Ref. PIDXXXXX
 
 # Organizations/Affiliations
 #organizations:
