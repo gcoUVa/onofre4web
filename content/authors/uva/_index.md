@@ -8,7 +8,7 @@ superuser: false
 weight: 1
 
 # Role/position
-role: <a href="https://investigacion.uva.es/CawDOS//jsf/seleccionActividades/seleccionActividades.jsf?id=72e6ffac37e460e9&idioma=es&tipo=activ,&elmeucv=N">Ramón Durán Barroso</a> <br> <a href="https://investigacion.uva.es/CawDOS//jsf/seleccionActividades/seleccionActividades.jsf?id=7113cd0f4e4a295a&idioma=es&tipo=activ,&elmeucv=N">Ignacio de Miguel Jiménez</a> <br> Subproyect - On-Demand Provisioning of Network and Computing Resources from the Cloud to the Edge - Operation and Computation Offloading (ONOFRE-3-UVa). Ref. PID2020-112675RB-C42
+role: <a href="https://investigacion.uva.es/CawDOS//jsf/seleccionActividades/seleccionActividades.jsf?id=7113cd0f4e4a295a&idioma=es&tipo=activ,&elmeucv=N">Ignacio de Miguel Jiménez</a> <br> <a href="https://investigacion.uva.es/CawDOS//jsf/seleccionActividades/seleccionActividades.jsf?id=fe9385c725979c89&idioma=es&tipo=activ,&elmeucv=N">Noemí Merayo Álvarez</a> <br>  Subproject - Multi-stakeholder Network Planning and Orchestration for Reliable and Secure Connected Mobility - Optical Network Planning and Operation (ONOFRE-4-UVa)
 
 # Organizations/Affiliations
 #organizations:
@@ -26,11 +26,11 @@ social:
   - icon: envelope
     icon_pack: fas
     name: 'Email'
-    link: 'mailto:rduran@tel.uva.es'
+    link: 'mailto:ignacio.demiguel@uva.es'
   - icon: phone
     icon_pack: fa
     name: 'Phone'
-    link: 'tel:+34968325952'
+    link: 'tel:+34983185574'
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/GeorgeCushen
