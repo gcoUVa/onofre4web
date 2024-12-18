@@ -5,7 +5,7 @@ stud:
 # Is this the primary user of the site?
 superuser: false
 
-weight: 3
+weight: 4
 
 # Role/position
 role: <a href="https://www.linkedin.com/in/august-betzler-7babb612b/?originalSubdomain=es">August Betzler</a> <br> Subproyect - On-Demand Provisioning of Network and Computing Resources from the Cloud to the Edge - Adapting 5G and beyond into the CCAM and C-ITS sector(ONOFRE-3-I2Cat). Ref. PID2020-112675RB-C43
