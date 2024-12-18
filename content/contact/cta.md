@@ -9,5 +9,5 @@ design:
   columns: '1'
 ---
 <!--<div style="text-align: justify"> 
-Webmaster: Andrés Ruz - <a href="mailto:andres.ruz@upct.es">andres.ruz@upct.es</a>
+Webmaster: Ignacio de Miguel - <a href="mailto:ignacio.demiguel@uva.es">ignacio.demiguel@uva.es</a>
 </div>-->
