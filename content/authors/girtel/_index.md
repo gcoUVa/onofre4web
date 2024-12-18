@@ -8,7 +8,7 @@ superuser: false
 weight: 1
 
 # Role/position
-role: <a href="https://girtel.upct.es/~eegea//">Esteban Egea López</a> <br> <a href="https://girtel.upct.es/~vbeltran//">Victoria Beltrán Martínez</a> <br> Subproject - Multi-stakeholder Network Planning and Orchestration for Reliable and Secure Connected Mobility: Multi-RAT Planning and Operation (ONOFRE-4-UPCT). Ref. PID2023-148104OB-C42
+role: <a href="https://investigacion.uva.es/CawDOS//jsf/seleccionActividades/seleccionActividades.jsf?id=72e6ffac37e460e9&idioma=es&tipo=activ,&elmeucv=N">Ramón Durán Barroso</a> <br> <a href="https://investigacion.uva.es/CawDOS//jsf/seleccionActividades/seleccionActividades.jsf?id=7113cd0f4e4a295a&idioma=es&tipo=activ,&elmeucv=N">Ignacio de Miguel Jiménez</a> <br> Subproyect - On-Demand Provisioning of Network and Computing Resources from the Cloud to the Edge - Operation and Computation Offloading (ONOFRE-3-UVa). Ref. PID2020-112675RB-C42
 
 # Organizations/Affiliations
 #organizations:
