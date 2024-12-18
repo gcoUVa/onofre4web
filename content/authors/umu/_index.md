@@ -5,7 +5,7 @@ stud:
 # Is this the primary user of the site?
 superuser: false
 
-weight: 4
+weight: 3
 
 # Role/position
 role: <a href="https://curie.um.es/curie/servlet/um.curie.ginvest.ControlGrinvest?accion=fichainvestigador&dept_codigo=E096&grin_codigo=02&grin_nombre=SISTEMAS%20INTELIGENTES%20Y%20TELEM%C3%uFFFDTICA&d=EA641347CE5593612D1D3BB52DFCCBAD">Antonio F. Skarmeta Gómez</a> <br> <a href="https://webs.um.es/jcadenas/miwiki/doku.php">José Manuel Cadenas Figueredo</a> <br> Subproyect - On-Demand Provisioning of Network and Computing Resources from the Cloud to the Edge - Exploiting Smart Orchestration and Security (ONOFRE-3-UMU). Ref. PID2020-112675RB-C44
