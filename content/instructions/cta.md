@@ -26,7 +26,7 @@ Grants PID2023-148104OB-C41 and PID2023-148104OB-C42 funded by MICIU/AEI/10.1303
 <p>If the paper is in <b>Spanish</b>:</p>
 
 <ul>
-<li>UVA: Proyecto PID2023-148104OB-C41 financiado por MICIU/AEI/10.13039/501100011033 y por FEDER/UE.</li>
+<li>UVa: Proyecto PID2023-148104OB-C41 financiado por MICIU/AEI/10.13039/501100011033 y por FEDER/UE.</li>
 <li>UPCT: Proyecto PID2023-148104OB-C42 financiado por MICIU/AEI/10.13039/501100011033 y por FEDER/UE.</li>
 <li>UMU:  Proyecto PID2023-148104OB-C43 financiado por MICIU/AEI/10.13039/501100011033 y por FEDER/UE.</li>
 </ul>
