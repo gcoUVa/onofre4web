@@ -26,8 +26,8 @@ content:
   #  country: Spain
   #  country_code: ES
   coordinates:
-    latitude: '37.601434'
-    longitude: '-0.978408'
+    latitude: '41.662319'
+    longitude: '-4.705917'
   #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   #office_hours:
   #  - 'Monday 10:00 to 13:00'
@@ -56,16 +56,17 @@ design:
 ---
 
 <div style="text-align: center"> 
-<a href="mailto:jose.santa@upct.es">Jose Santa</a>
+<a href="mailto:ignacio.demiguel@uva.es">Ignacio de Miguel</a>
 <h1>Email</h1>
-<a href="mailto:jose.santa@upct.es">jose.santa@upct.es</a>
+<a href="mailto:ignacio.demiguel@uva.es">ignacio.demiguel@uva.es</a>
 <h1>Postal Address</h1>
 <div>
-Dept. Electronics, Computer Technology and Projects<br>
-Technical University of Cartagena (UPCT)<br>
-Edificio de Antigones 30202 Cartagena, Murcia, SPAIN
+E.T.S.I. de Telecomunicación - Univ. de Valladolid<br>
+Campus Miguel Delibes<br>
+Paseo de Belén 15<br>
+47011 Valladolid, SPAIN
 </div>
 <h1>Telephone</h1>
-<a href="tel:+34868071063">+34-868-071063</a>
+<a href="tel:+34983185574">+34-983-185574</a>
 </div>
 
