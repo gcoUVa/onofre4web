@@ -8,7 +8,7 @@ superuser: false
 weight: 3
 
 # Role/position
-role: <a href="https://curie.um.es/curie/servlet/um.curie.ginvest.ControlGrinvest?accion=fichainvestigador&dept_codigo=E096&grin_codigo=02&grin_nombre=SISTEMAS%20INTELIGENTES%20Y%20TELEM%C3%uFFFDTICA&d=EA641347CE5593612D1D3BB52DFCCBAD">Antonio F. Skarmeta Gómez</a> <br> <a href="https://webs.um.es/ramonsanchez/miwiki/doku.php">Ramón J. Sánchez Iborra</a> <br> Subproject - Multi-stakeholder Network Planning and Orchestration for Reliable and Secure Connected Mobility: Zero touch Network and Service Management and Security (ONOFRE-4-UMU). Ref. PID2023-148104OB-C43
+role: <a href="https://curie.um.es/curie/servlet/um.curie.ginvest.ControlGrinvest?accion=fichainvestigador&dept_codigo=E096&grin_codigo=02&grin_nombre=SISTEMAS%20INTELIGENTES%20Y%20TELEM%C3%uFFFDTICA&d=EA641347CE5593612D1D3BB52DFCCBAD">Antonio F. Skarmeta Gómez</a> <br> <a href="https://webs.um.es/ramonsanchez/miwiki/doku.php">Ramón J. Sánchez Iborra</a> <br> Subproject - Multi-stakeholder Network Planning and Orchestration for Reliable and Secure Connected Mobility - Zero touch Network and Service Management and Security (ONOFRE-4-UMU). Ref. PID2023-148104OB-C43
 
 # Organizations/Affiliations
 #organizations:
