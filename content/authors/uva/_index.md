@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Optical Communications Group (University of Valladolid)
+title: Optical Communications Group (Universidad de Valladolid)
 stud:
 # Is this the primary user of the site?
 superuser: false
