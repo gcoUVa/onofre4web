@@ -42,7 +42,7 @@ Grant YOURREFERENCE funded by:
 
 In <b>Spanish:</b>
 
-Proyecto YOURREFERENCE financiada por:
+Proyecto YOURREFERENCE financiado por:
 <img src="logo_miciu_ue_aei.jpg">
 
 Please, refer to the AIE instructions  <A HREF="https://www.aei.gob.es/ayudas-concedidas/comunicacion-publicidad-ayudas-concedidas">here.</A>
