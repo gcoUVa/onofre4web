@@ -56,10 +56,10 @@ design:
 ---
 
 <div style="text-align: center"> 
-<a href="mailto:ignacio.demiguel@uva.es">Ignacio de Miguel</a>
+<a href="mailto:ignacio.demiguel@uva.es">Ignacio de Miguel</a><br>
 <a href="mailto:noemer@uva.es">Noemí Merayo</a>
 <h1>Email</h1>
-<a href="mailto:ignacio.demiguel@uva.es">ignacio.demiguel@uva.es</a>
+<a href="mailto:ignacio.demiguel@uva.es">ignacio.demiguel@uva.es</a><br>
 <a href="mailto:noemer@uva.es">noemer@uva.es</a>
 <h1>Postal Address</h1>
 <div>
