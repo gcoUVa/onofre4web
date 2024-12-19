@@ -15,7 +15,7 @@ resources. The focus is on providing support for connected, reliable and secure 
 interrelation between networks operated by different actors.<p>
 <!----<img src="onofre4_wp_small.png" style="float:left;width:100px;height:100px;margin-right:20px;margin-bottom:20px">
 ----->
-<img src="logo_cochetransp.png" style="float:left; height:200px; margin-right:20px; margin-bottom:20px">
+<img src="logo_cochetransp.png" style="float:left; height:200px; margin-top:20px; margin-right:20px; margin-bottom:20px">
 In concrete terms, the project starts from the assumption that to fully exploit the potential of connected mobility in general, it is essential to
 have <b>robust and reliable communication infrastructures</b>, both wired and wireless, <b>equipped with computing resources</b>, and supported by
 <b>effective orchestration procedures</b>. It also highlights the importance of considering <b>multi-operator and even multi-stakeholder scenarios</b>. As
@@ -24,7 +24,8 @@ should facilitate seamless connectivity and uninterrupted access to subscribed s
 cohesive mobility ecosystem. In addition, communication and computing infrastructures of different operators, and even of other actors
 such as public administrations, companies or industries, may exist in the same geographical area. Therefore, the interrelation of these
 infrastructures, enabling a shared use of resources under certain conditions, and articulated through smart contracts, will enhance
-efficiency in service provision and create new opportunities for operators and other stakeholders.<p>
+efficiency in service provision and create new opportunities for operators and other stakeholders.
+<p></p>
 ONOFRE-4 will advance on (1) providing efficient planning and management mechanisms for wired and wireless network infrastructures
 equipped with computing resources, (2) optimizing the use of multiband technologies and coherent pluggable transceivers in optical
 networks, along with a focus on emerging standards on access networks, (3) optimizing the co-existence of multiple radio access
