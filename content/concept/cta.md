@@ -10,11 +10,8 @@ design:
 ---
 <div style="text-align: justify"> 
 
-ONOFRE-4 aims to develop efficient planning and management mechanisms for network infrastructures equipped with computing
-resources. The focus is on providing support for connected, reliable and secure mobility, with special consideration given to the
-interrelation between networks operated by different actors.<p>
-<!----<img src="onofre4_wp_small.png" style="float:left;width:100px;height:100px;margin-right:20px;margin-bottom:20px">
------>
+ONOFRE-4 (Multi-stakeholder Network Planning and Orchestration for Reliable and Secure Connected Mobility) aims to develop efficient planning and management mechanisms for network infrastructures equipped with computing resources. The focus is on providing support for connected, reliable and secure mobility, with special consideration given to the interrelation between networks operated by different actors.<p>
+
 <img src="logo_cochetransp.png" style="float:left; height:200px; margin-top:20px; margin-right:20px; margin-bottom:20px">
 In concrete terms, the project starts from the assumption that to fully exploit the potential of connected mobility in general, it is essential to
 have <b>robust and reliable communication infrastructures</b>, both wired and wireless, <b>equipped with computing resources</b>, and supported by
@@ -26,13 +23,21 @@ such as public administrations, companies or industries, may exist in the same g
 infrastructures, enabling a shared use of resources under certain conditions, and articulated through smart contracts, will enhance
 efficiency in service provision and create new opportunities for operators and other stakeholders.
 <p></p>
-ONOFRE-4 will advance on (1) providing efficient planning and management mechanisms for wired and wireless network infrastructures
-equipped with computing resources, (2) optimizing the use of multiband technologies and coherent pluggable transceivers in optical
-networks, along with a focus on emerging standards on access networks, (3) optimizing the co-existence of multiple radio access
-technologies (RAT) with special emphasis on recently introduced techniques such as multi-channel operation (MCO), (4) optimizing the services
+ONOFRE-4 will advance on:<br>
+<ol>
+<li>providing efficient planning and management mechanisms for wired and wireless network infrastructures
+equipped with computing resources, </li>
+<li> optimizing the use of multiband technologies and coherent pluggable transceivers in optical
+networks, along with a focus on emerging standards on access networks, </li>
+<li> optimizing the co-existence of multiple radio access
+technologies (RAT) with special emphasis on recently introduced techniques such as multi-channel operation (MCO), </li>
+<li> optimizing the services
 offered by the network and its computing infrastructure, exploiting orchestration, federated learning and computation offloading in multistakeholder
-environments, (5) improving the reliability and security of the network architecture by including identity management and
-quantum key distribution (QKD), and all with a focus on improving various use cases related to mobility.
+environments, </li>
+<li> improving the reliability and security of the network architecture by including identity management and
+quantum key distribution (QKD), </li>
+</ol>
+and all with a focus on improving various use cases related to mobility.
 
 <p><b>Objectives:</b></p>
 
