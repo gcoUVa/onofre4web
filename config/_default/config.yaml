@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: ONOFRE-4 # Website name
-baseURL: 'https://idemiguel.github.io/onofre4test2/' # Website URL
+baseURL: 'https://idemiguel.github.io/onofre4web/' # Website URL
 canonifyURLs: false
 relativeURLs: false
 
