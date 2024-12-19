@@ -38,12 +38,12 @@ Please, include also the logo of the funding institution (MICIU/EU/AEI) in any m
 In <b>English:</b>
 
 Grant YOURREFERENCE funded by:
-<img src="logo_miciu_ue_aei.jpg">
+<img src="logo_miciu_ue_aei.jpg" style="max-width:300px;width:100%">
 
 In <b>Spanish:</b>
 
 Proyecto YOURREFERENCE financiado por:
-<img src="logo_miciu_ue_aei.jpg">
+<img src="logo_miciu_ue_aei.jpg" style="max-width:300px;width:100%">
 
 Please, refer to the AIE instructions  <A HREF="https://www.aei.gob.es/ayudas-concedidas/comunicacion-publicidad-ayudas-concedidas">here.</A>
 
