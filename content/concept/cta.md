@@ -15,10 +15,10 @@ resources. The focus is on providing support for connected, reliable and secure 
 interrelation between networks operated by different actors.<p>
 <!----<img src="onofre4_wp_small.png" style="float:left;width:100px;height:100px;margin-right:20px;margin-bottom:20px">
 ----->
-<img src="logococheblanco.png" style="float:left">
+<img src="logococheblanco.png" style="float:left; height:200px">
 In concrete terms, the project starts from the assumption that to fully exploit the potential of connected mobility in general, it is essential to
-have robust and reliable communication infrastructures, both wired and wireless, equipped with computing resources, and supported by
-effective orchestration procedures. It also highlights the importance of considering multi-operator and even multi-stakeholder scenarios. As
+have <b>robust and reliable communication infrastructures</b>, both wired and wireless, <b>equipped with computing resources</b>, and supported by
+<b>effective orchestration procedures</b>. It also highlights the importance of considering <b>multi-operator and even multi-stakeholder scenarios</b>. As
 vehicles move across different geographical regions, networks managed by different operators and their associated computing resources
 should facilitate seamless connectivity and uninterrupted access to subscribed services, thus contributing to a more connected and
 cohesive mobility ecosystem. In addition, communication and computing infrastructures of different operators, and even of other actors
@@ -28,7 +28,7 @@ efficiency in service provision and create new opportunities for operators and o
 ONOFRE-4 will advance on (1) providing efficient planning and management mechanisms for wired and wireless network infrastructures
 equipped with computing resources, (2) optimizing the use of multiband technologies and coherent pluggable transceivers in optical
 networks, along with a focus on emerging standards on access networks, (3) optimizing the co-existence of multiple radio access
-technologies with special emphasis on recently introduced techniques such as multi-channel operation (MCO), (4) optimizing the services
+technologies (RAT) with special emphasis on recently introduced techniques such as multi-channel operation (MCO), (4) optimizing the services
 offered by the network and its computing infrastructure, exploiting orchestration, federated learning and computation offloading in multistakeholder
 environments, (5) improving the reliability and security of the network architecture by including identity management and
 quantum key distribution (QKD), and all with a focus on improving various use cases related to mobility.
@@ -37,7 +37,7 @@ quantum key distribution (QKD), and all with a focus on improving various use ca
 
 <ul>
 <li><b>O1.</b> To propose planning and allocation mechanisms for core, metro and access optical networks, as well as IA-based network automation techniques.</li>
-<li><b>O2.</b> To extend the optimization of multi-RAT (Radio Access Technologies) operation, including recently introduced technologies.</li>
+<li><b>O2.</b> To extend the optimization of multi-RAT operation, including recently introduced technologies.</li>
 <li><b>O3.</b> To ensure efficient and reliable resource management in complex network infrastructures composed of multiple stakeholders. </li>
 <li><b>O4.</b> To enhance the security of the architecture by incorporating identity management, DLT and QKD.</li>
 <li><b>O5.</b> To optimize and validate services and use cases related to connected vehicles.</li>
