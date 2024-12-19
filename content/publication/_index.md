@@ -11,7 +11,7 @@ banner:
 ---
 
 <div style="text-align: center">
-Papers and documents published in frames of the ONOFRE-4 project
+Papers and documents published in the framework of the ONOFRE-3 and ONOFRE-4 projects
 
 </div>
 <br>
