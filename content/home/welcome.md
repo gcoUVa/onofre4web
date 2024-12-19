@@ -10,7 +10,7 @@ active: true
 title: |
   <p>ONOFRE-4</p> <p>Multi-stakeholder Network Planning and Orchestration for Reliable and Secure Connected Mobility</p>
 subtitle: Proyectos PID2023-148104OB-C41 a C43 financiados por MICIU/AEI/10.13039/501100011033 y por FEDER/UE.
-image_title: onofre3.png
+image_title: onofre4_logo.png
 image_height: 300px
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
