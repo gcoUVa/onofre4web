@@ -42,6 +42,6 @@ quantum key distribution (QKD), and all with a focus on improving various use ca
 <p></p>
 </div>
 <div style="text-align: center"> 
-<img src="onofre4_wp_small.png" style="max-width:600px;width:100%">>
+<img src="onofre4_wp_small.png" style="max-width:600px;width:100%">
 </div>
 
