@@ -39,7 +39,7 @@ quantum key distribution (QKD), and all with a focus on improving various use ca
 <li><b>O4.</b> To enhance the security of the architecture by incorporating identity management, DLT and QKD.</li>
 <li><b>O5.</b> To optimize and validate services and use cases related to connected vehicles.</li>
 </ul>
-
-<img src="onofre4_wp.png">
+<p></p>
+<img src="onofre4_wp_small.png">
 
 </div>
