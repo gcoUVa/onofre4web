@@ -1,1 +1,12 @@
-Privacy example
+---
+title: Privacy
+subtitle: 
+widget: blank
+headless: true
+active: true
+weight: 40
+design:
+  columns: '1'
+---
+
+Privacy terms
