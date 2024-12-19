@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: ONOFRE-3 # Website name
+title: ONOFRE-4 # Website name
 baseURL: 'https://idemiguel.github.io/onofre4test2/' # Website URL
 canonifyURLs: false
 relativeURLs: false
