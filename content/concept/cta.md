@@ -40,8 +40,9 @@ quantum key distribution (QKD), and all with a focus on improving various use ca
 <li><b>O5.</b> To optimize and validate services and use cases related to connected vehicles.</li>
 </ul>
 <p></p>
-</div>
-<div style="text-align: center"> 
+<center> 
 <img src="onofre4_wp_small.png" style="max-width:600px;width:100%">
+</center>
 </div>
+
 
