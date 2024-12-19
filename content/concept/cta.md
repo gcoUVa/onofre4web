@@ -15,7 +15,7 @@ resources. The focus is on providing support for connected, reliable and secure 
 interrelation between networks operated by different actors.<p>
 <!----<img src="onofre4_wp_small.png" style="float:left;width:100px;height:100px;margin-right:20px;margin-bottom:20px">
 ----->
-<img src="logococheblanco.png" style="float:left; height:200px">
+<img src="logo_cochetransp.png" style="float:left; height:200px; margin-right:20px; margin-bottom:20px">
 In concrete terms, the project starts from the assumption that to fully exploit the potential of connected mobility in general, it is essential to
 have <b>robust and reliable communication infrastructures</b>, both wired and wireless, <b>equipped with computing resources</b>, and supported by
 <b>effective orchestration procedures</b>. It also highlights the importance of considering <b>multi-operator and even multi-stakeholder scenarios</b>. As
