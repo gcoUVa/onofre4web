@@ -13,7 +13,7 @@ design:
 ONOFRE-4 aims to develop efficient planning and management mechanisms for network infrastructures equipped with computing
 resources. The focus is on providing support for connected, reliable and secure mobility, with special consideration given to the
 interrelation between networks operated by different actors.<p>
-In concrete terms, the project starts from the assumption that to fully exploit the potential of connected mobility in general, it is essential to
+<img src="onofre4_wp_small.png" alt="Smiley face" style="float:left;width:100px;height:100px;">In concrete terms, the project starts from the assumption that to fully exploit the potential of connected mobility in general, it is essential to
 have robust and reliable communication infrastructures, both wired and wireless, equipped with computing resources, and supported by
 effective orchestration procedures. It also highlights the importance of considering multi-operator and even multi-stakeholder scenarios. As
 vehicles move across different geographical regions, networks managed by different operators and their associated computing resources
