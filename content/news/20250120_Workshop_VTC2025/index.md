@@ -31,9 +31,5 @@ The C4CPS workshops is soliciting contributions by **27 February 2025** in, but 
 - Workshop paper acceptance notification: 20 April 2025
 - Final paper submission: 4 May 2025
 
-**Links of interest**:
-- Workshop details (W13-C4CPS): https://events.vtsociety.org/vtc2025-spring/conference-sessions/workshops-available/w13-ieee-workshop-on-converged-communication-computing-and-control-for-next-generation-cyber-physical-systems-c4cps/
-- Submission of papers for the workshop: https://vtc2025s-rr-wks.trackchair.com/track/2370
-- VTC2025 home page: https://events.vtsociety.org/vtc2025-spring/
 
 <!--more-->
