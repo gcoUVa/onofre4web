@@ -2,7 +2,7 @@
 title: Test
 date: 2025-03-12
 draft: false
-abstract: "Prof. Ramón J. Durán Barroso (from the UVa team at ONOFRE-4), along Estefanía Coronado and Estela Carmona-Cejudo (i2CAT) and other collaborators, is co-organizing the **IEEE Workshop on Converged Communication, Computing, and Control for Next-Generation Cyber-Physical Systems (C4CPS)** at the 2025 IEEE 101st Vehicular Technology Conference (VTC2025-Spring). VTC2025-Spring will be held in Oslo, Norway, 17 - 20 June 2025. This semi-annual flagship conference of IEEE Vehicular Technology Society will bring together individuals from academia, government, and industry to discuss and exchange ideas in the fields of wireless, mobile, and vehicular technology. The deadline for submissions to the workshop is on **27 February 2025**."
+abstract: "Nos complace invitaros a la jornada *online* **"Luz y Qbits: Mujeres en la revolución cuántica"** el 19/3/2025 de 11:00 a 14:00,  un evento diseñado para explorar el fascinante mundo de la tecnología cuántica y su impacto en la ciberseguridad, la conectividad del futuro y las redes híbridas cuántico-clásicas."
 ---
 
 Estimados investigadores, doctorandos, estudiantes y profesionales del ámbito TIC:
