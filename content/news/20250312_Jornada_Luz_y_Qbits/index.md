@@ -2,7 +2,7 @@
 title: Test
 date: 2025-03-12
 draft: false
-abstract: "Nos complace invitaros a la jornada *online* **"Luz y Qbits: Mujeres en la revolución cuántica"** el 19/3/2025 de 11:00 a 14:00,  un evento diseñado para explorar el fascinante mundo de la tecnología cuántica y su impacto en la ciberseguridad, la conectividad del futuro y las redes híbridas cuántico-clásicas."
+abstract: "Nos complace invitarles a la jornada *online* **Luz y Qbits: Mujeres en la revolución cuántica** el 19 de marzo de 2025 de 11:00 a 14:00,  un evento diseñado para explorar el fascinante mundo de la tecnología cuántica y su impacto en la ciberseguridad, la conectividad del futuro y las redes híbridas cuántico-clásicas."
 ---
 
 Estimados investigadores, doctorandos, estudiantes y profesionales del ámbito TIC:
