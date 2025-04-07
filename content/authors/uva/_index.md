@@ -8,7 +8,7 @@ superuser: false
 weight: 1
 
 # Role/position
-role: <a href="https://investigacion.uva.es/CawDOS//jsf/seleccionActividades/seleccionActividades.jsf?id=7113cd0f4e4a295a&idioma=es&tipo=activ,&elmeucv=N">Ignacio de Miguel Jiménez</a> <br> <a href="https://investigacion.uva.es/CawDOS//jsf/seleccionActividades/seleccionActividades.jsf?id=fe9385c725979c89&idioma=es&tipo=activ,&elmeucv=N">Noemí Merayo Álvarez</a> <br>  Subproject - Multi-stakeholder Network Planning and Orchestration for Reliable and Secure Connected Mobility - Optical Network Planning and Operation (ONOFRE-4-UVa). Ref. PID2023-148104OB-C41
+role: <a href="https://investigacion.uva.es/CawDOS//jsf/seleccionActividades/seleccionActividades.jsf?id=7113cd0f4e4a295a&idioma=es&tipo=activ,&elmeucv=N">Ignacio de Miguel Jiménez</a> <br> <a href="https://investigacion.uva.es/CawDOS//jsf/seleccionActividades/seleccionActividades.jsf?id=fe9385c725979c89&idioma=es&tipo=activ,&elmeucv=N">Noemí Merayo Álvarez</a> <br>  Subproject - Multi-stakeholder Network Planning and Orchestration for Reliable and Secure Connected Mobility - Optical Network Planning and Operation (ONOFRE-4-UVa), Ref. PID2023-148104OB-C41
 
 # Organizations/Affiliations
 #organizations:
