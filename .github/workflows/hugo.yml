@@ -36,7 +36,7 @@ jobs:
     name: Generate files
     steps:
       - name: 🛒 Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4   # Was v3
         with:
           submodules: recursive
           fetch-depth: 0
@@ -79,7 +79,7 @@ jobs:
 #        run: |
 #          cp -r ./aditionalFiles/files ./public/files/
       - name: 📤 Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3     # Was v1
         with:
           path: ./public
 
@@ -94,7 +94,7 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4     # Was v2
 
           # Deployment job
   deploy-girtel-sv:
