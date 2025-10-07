@@ -7,7 +7,7 @@ abstract: "On 26 September 2025, the team from Universidad de Murcia participate
 
 On 26 September 2025, the team from Universidad de Murcia participated in the European Researchers' Night in Murcia. They set up a stand where they showcased different equipment and developments in communications and artificial intelligence to families and non-expert audiences reaching an audience of thousands of people.
 
-More details (and a video with the participation of Dr. Ramón J. Sánchez): https://www.um.es/web/ucc/proyectos/la-noche-de-los-investigadores
+More details (and a video with the participation of Dr. Ramón Sánchez-Iborra): https://www.um.es/web/ucc/proyectos/la-noche-de-los-investigadores
 
 
 <!--more-->
