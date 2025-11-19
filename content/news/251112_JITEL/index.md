@@ -1,5 +1,5 @@
 ---
-title: Ramón Sánchez Iborra participates in JITEL 2025 (Jornadas de Ingeniería Telemática)
+title: Ramón Sánchez Iborra (UMU) participates in JITEL 2025 (Jornadas de Ingeniería Telemática)
 date: 2025-11-12
 draft: false
 abstract: "From 12 November to 14 November 2025 JITEL (Jornadas de Ingeniería Telemática) took place, where Ramón Sánchez Iborra from the Universidad de Murcia presented three papers."
