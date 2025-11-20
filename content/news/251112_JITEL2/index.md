@@ -9,5 +9,5 @@ Our Ph.D. students, Emilio Ramos-Sorroche and Felipe García-Vidal from the Univ
 During the conference, Ramos-Sorroche focused on the intersection of artificial intelligence and urban sustainability, presenting a comparative analysis of predictive models designed to monitor air quality and forecast pollutant levels in metropolitan environments. Complementing this, Garcia-Vidal addressed the challenges of next-generation mobility, sharing insights on how to optimize data transmission in vehicular networks by evaluating mechanisms that leverage multi-channel operations. Their participation underscores our team’s ongoing commitment to advancing research in critical fields such as Smart Cities and intelligent transportation systems.
 
 
-More details:https://www.scitel.es/jitel.html
+More details: https://www.scitel.es/jitel.html
 <!--more-->
