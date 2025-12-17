@@ -10,6 +10,6 @@ The paper “LoRaWAN Performance under Vehicular Mobility: An Experimental Evalu
 This research explores the behaviour of LoRaWAN under mobility conditions, assessing its performance in vehicular scenarios at different speeds and spreading factors. The findings provide valuable insights for optimising IoT connectivity in dynamic environments, paving the way for more resilient solutions in smart cities and mobile applications.
 
 
-More details:https://comcomap.net/2025
+More details: https://comcomap.net/2025
 <!--more-->
 
