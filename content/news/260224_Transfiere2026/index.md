@@ -11,9 +11,9 @@ Representing the group, José Santa highlighted recent advances in environmental
 
 During the event, three cutting‑edge OBU units were unveiled, each corresponding to progress achieved in major ongoing research projects:
 
-AEI ONOFRE‑4 (PID2023‑148104OB‑C42)
-Seneca MovIoT (22228/PDC/23)
-AEI WILLIOT (CNS2022‑136150)
+- AEI ONOFRE‑4 (PID2023‑148104OB‑C42)
+- Seneca MovIoT (22228/PDC/23)
+- AEI WILLIOT (CNS2022‑136150)
 
 More details: https://www.upct.es/noticias/2026-02-24-la-upct-presenta-sus-prototipos-tecnologicos-en-transfiere-malaga
 <!--more-->
