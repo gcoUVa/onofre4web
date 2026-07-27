@@ -17,6 +17,6 @@ It was a great opportunity to present our latest research, exchange ideas with t
 
 
 
-More details:https://icton2026.ufe.cz/en/about/
+More details: https://icton2026.ufe.cz/en/about/
 <!--more-->
 
